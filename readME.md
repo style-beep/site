@@ -8,7 +8,7 @@
 
 ### 🚀 Современный, адаптивный и стильный сайт для новичков в веб-разработке
 
-[Посмотреть демо](#) • [Сообщить о проблеме](https://github.com/style-beep/issues) • [Telegram](https://t.me/Donskooyyy)
+[Сообщить о проблеме](https://github.com/style-beep/issues) • [Telegram](https://t.me/Donskooyyy)
 
 </div>
 
@@ -17,7 +17,7 @@
 ## 📸 Скриншоты
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450?text=Главный+экран+сайта" alt="Главный экран" width="80%">
+  <img src=" alt="Главный экран" width="80%">
   <br>
   <em>Главный экран с магической кнопкой</em>
 </div>
