@@ -289,10 +289,3 @@ html
 📱 Телефоны	< 768px	Вертикальное расположение, уменьшенные шрифты
 📟 Планшеты	768px - 1024px	Оптимизированные отступы
 💻 Десктопы	> 1024px	Полный функционал
-
-🤝 Контакты
-<div align="center">
-https://img.shields.io/badge/GitHub-style--beep-181717?style=for-the-badge&logo=github
-https://img.shields.io/badge/Telegram-@Donskooyyy-26A5E4?style=for-the-badge&logo=telegram
-
-</div>
