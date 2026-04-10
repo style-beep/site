@@ -219,17 +219,16 @@ flowchart TD
 ### Локальный запуск
 
 1. **Склонируй репозиторий**
+2. 
    ```bash
    git clone https://github.com/style-beep/.git
-
-2. Перейди в папку проекта
-   cd work 5
+   
 3. Открой index.html в браузере
 
 Просто дважды кликни по файлу
 
 Или используй Live Server в VS Code
-     ---
+
 # Если у тебя установлен Python
 python -m http.server 8000
 
