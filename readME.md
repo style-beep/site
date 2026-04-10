@@ -234,7 +234,7 @@ python -m http.server 8000
 # Или используй npx
 npx serve .
 
- ```mermaid
+ ```bash
  Что внутри
 🔮 Магическая кнопка
 javascript
