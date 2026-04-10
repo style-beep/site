@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Мой сайт</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">✨ CODE</div>
+                <div class="nav-links">
+                    <a href="#">Главная</a>
+                    <a href="#skills">Навыки</a>
+                    <a href="#tools">Инструменты</a>
+                    <a href="#contact">Контакты</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="badge">🚀 Добро пожаловать</div>
+                <h1>Создаём красоту <br>с помощью кода</h1>
+                <p>Простой, но красивый сайт . Адаптив, анимации и интерактив — всё собрано здесь.</p>
+                <div class="btn-group">
+                    <button class="btn btn-primary" id="magicBtn">✨ Магия</button>
+                    <a href="#skills" class="btn btn-outline">Узнать больше →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="section">
+        <div class="container">
+            <h2 class="section-title">Мои <span>навыки</span></h2>
+            <div class="cards-grid">
+                <div class="card">
+                    <div class="card-icon">🎨</div>
+                    <h3>HTML & CSS</h3>
+                    <p>Семантическая вёрстка, флексы, гриды, адаптив и красивые анимации.</p>
+                </div>
+                <div class="card">
+                    <div class="card-icon">⚡</div>
+                    <h3>JavaScript</h3>
+                    <p>Интерактивность, обработка событий, динамическое изменение контента.</p>
+                </div>
+                <div class="card">
+                    <div class="card-icon">📱</div>
+                    <h3>Адаптивность</h3>
+                    <p>Сайт отлично выглядит на телефонах, планшетах и компьютерах.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="tools" class="section calculator-section">
+        <div class="container">
+            <h2 class="section-title">🧮 Простой <span>калькулятор</span></h2>
+            <div class="calculator-card">
+                <input type="number" id="num1" placeholder="Первое число">
+                <select id="operation">
+                    <option value="+">➕ Сложение (+)</option>
+                    <option value="-">➖ Вычитание (-)</option>
+                    <option value="*">✖️ Умножение (*)</option>
+                    <option value="/">➗ Деление (/)</option>
+                </select>
+                <input type="number" id="num2" placeholder="Второе число">
+                <button id="calculateBtn" class="btn btn-primary">Посчитать</button>
+                <div class="result-box" id="resultBox">
+                    Результат появится здесь 👆
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer id="contact">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-text">
+                    <h3>✨ CODE</h3>
+                    <p>Сделано новичком в веб-разработке</p>
+                </div>
+                <div class="social-links">
+                    <a href="https://github.com/style-beep" target="_blank" class="social-link" rel="noopener noreferrer">
+                        🐙 GitHub
+                    </a>
+                    <a href="https://t.me/Donskooyyy" target="_blank" class="social-link" rel="noopener noreferrer">
+                        📱 Telegram
+                    </a>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>© 2025 Мой первый красивый сайт</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
