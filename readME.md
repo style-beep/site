@@ -60,10 +60,66 @@ graph LR
 
 <div align="center">
   
-|  |  |  |
-|--|--|--|
-| 🎯 **Горизонтальный скролл** | 🔘 **Увеличенные кнопки** | ✨ **Оптимизированные шрифты** |
-| 📱 **Touch-friendly интерфейс** | ⚡ **Плавные жесты** | 🚀 **Мгновенный отклик** |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <span style="font-size: 32px;">📜</span>
+      <br/>
+      <b>Горизонтальный<br/>скролл</b>
+      <br/>
+      <sub>Плавная прокрутка</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <span style="font-size: 32px;">🔘</span>
+      <br/>
+      <b>Увеличенные<br/>кнопки</b>
+      <br/>
+      <sub>Удобное нажатие</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <span style="font-size: 32px;">🔤</span>
+      <br/>
+      <b>Оптимизированные<br/>шрифты</b>
+      <br/>
+      <sub>Читаемый текст</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <span style="font-size: 32px;">👆</span>
+      <br/>
+      <b>Touch-friendly<br/>интерфейс</b>
+      <br/>
+      <sub>Полная поддержка</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <span style="font-size: 32px;">⚡</span>
+      <br/>
+      <b>Плавные<br/>жесты</b>
+      <br/>
+      <sub>Натуральные движения</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <span style="font-size: 32px;">🚀</span>
+      <br/>
+      <b>Мгновенный<br/>отклик</b>
+      <br/>
+      <sub>Быстрая реакция</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
