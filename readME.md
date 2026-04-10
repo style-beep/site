@@ -127,18 +127,26 @@ graph LR
 
 <div align="center">
   
-<img src="img/image.png" alt="Десктоп" width="45%">
-<img src="img/Снимок экрана 2026-04-10 161732.png" alt="Мобильный" width="25%">
-
-<br/>
-<br/>
-
-| 💻 **Десктоп версия** | 📱 **Мобильная версия** |
-|:---:|:---:|
-| Главный экран с магической кнопкой | Адаптивный дизайн для телефонов |
+<table>
+  <tr>
+    <td align="center">
+      <img src="img/image.png" alt="Десктоп версия" width="400" style="border-radius: 16px;">
+      <br/>
+      <b>💻 Десктоп версия</b>
+      <br/>
+      <sub>Главный экран с магической кнопкой</sub>
+    </td>
+    <td align="center">
+      <img src="img/Снимок экрана 2026-04-10 161732.png" alt="Мобильная версия" width="200" style="border-radius: 16px;">
+      <br/>
+      <b>📱 Мобильная версия</b>
+      <br/>
+      <sub>Адаптивный дизайн</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
----
 
 ## ✨ Особенности проекта
 
