@@ -127,18 +127,10 @@ graph LR
 
 <div align="center">
    <img src="img/image.png" alt="Главный экран" width="80%">
- <img src="img/Снимок экрана 2026-04-10 161732.png" alt="главный экран" width="80%">
+ <img src="img/Снимок экрана 2026-04-10 161732.png" alt="главный экран" width="auto">
   <br>
   <em>Главный экран с магической кнопкой</em>
 </div>
-
----
-
-/div alingh="center">
- <img src="img/Снимок экрана 2026-04-10 161732.png" alt="главный экран" width="80%">
- <br>
- </div>
-
 
 ---
 
