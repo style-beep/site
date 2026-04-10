@@ -277,9 +277,10 @@ body {
 }
 ```
 
-```html
+
 Добавление своих карточек
-В index.html скопируй блок .card:
+В `index.html` скопируй блок `.card`:
+```html
 <div class="card">
     <div class="card-icon">🚀</div>
     <h3>Название навыка</h3>
