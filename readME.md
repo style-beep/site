@@ -104,21 +104,63 @@ graph LR
 - Медиа-запросы для всех разрешений
 
 🎨 Визуальная карта технологий
-
-
-📁 Структура проекта
+## 🎨 **Визуальная карта технологий**
 
 <div align="center">
-мой-сайт/
-├── 📄 index.html          # Основная структура страницы
-├── 🎨 style.css           # Все стили и анимации
-├── ⚡ script.js           # Вся интерактивность
-├── 📖 README.md           # Документация проекта
-│
-└── 📁 img/                # Папка с изображениями
-    └── 🖼️ image.png       # Изображение главного экрана
+
+```mermaid
+flowchart TD
+    A[💎 МОЙ САЙТ] --> B[📄 HTML5]
+    A --> C[🎨 CSS3]
+    A --> D[⚡ JavaScript]
+    
+    B --> B1[🏗️ Семантика]
+    B --> B2[🔍 SEO]
+    B --> B3[♿ Доступность]
+    
+    C --> C1[📐 Flexbox/Grid]
+    C --> C2[✨ Анимации]
+    C --> C3[🎭 Градиенты]
+    C --> C4[📱 Адаптив]
+    
+    D --> D1[🖱️ События]
+    D --> D2[📦 DOM API]
+    D --> D3[💬 Toasts]
+    D --> D4[🎮 Интерактив]
+    
+    style A fill:#3B82F6,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#E34F26,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#1572B6,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#F7DF1E,stroke:#fff,stroke-width:2px,color:#000
+    style B1 fill:#FF6B35,stroke:#fff,stroke-width:1px
+    style B2 fill:#FF6B35,stroke:#fff,stroke-width:1px
+    style B3 fill:#FF6B35,stroke:#fff,stroke-width:1px
+    style C1 fill:#00A8E8,stroke:#fff,stroke-width:1px
+    style C2 fill:#00A8E8,stroke:#fff,stroke-width:1px
+    style C3 fill:#00A8E8,stroke:#fff,stroke-width:1px
+    style C4 fill:#00A8E8,stroke:#fff,stroke-width:1px
+    style D1 fill,#F7DF1E,stroke:#000,stroke-width:1px,color:#000
+    style D2 fill,#F7DF1E,stroke:#000,stroke-width:1px,color:#000
+    style D3 fill,#F7DF1E,stroke:#000,stroke-width:1px,color:#000
+    style D4 fill,#F7DF1E,stroke:#000,stroke-width:1px,color:#000
+```
+
 </div>
 
+## 📁 **Структура проекта**
+
+<div align="center">
+  📦 мой-сайт/
+│
+├── 📄 index.html # 🏠 Основная структура страницы
+├── 🎨 style.css # 💅 Все стили и анимации
+├── ⚡ script.js # 🎮 Вся интерактивность
+├── 📖 README.md # 📚 Документация проекта
+│
+└── 📁 img/ # 🖼️ Папка с изображениями
+│
+└── 🖼️ image.png # 🌄 Изображение главного экрана
+ 
 ## 🚀 Как запустить
 
 ### Локальный запуск
