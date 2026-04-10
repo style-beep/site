@@ -220,7 +220,7 @@ flowchart TD
 1. **Склонируй репозиторий**
 2. 
    ```bash
-   git clone https://github.com/style-beep/.git
+   git clone https://github.com/style-beep/site.git
    
 3. Открой index.html в браузере
 
