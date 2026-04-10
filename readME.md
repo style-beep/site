@@ -127,24 +127,11 @@ graph LR
 
 <div align="center">
   
-<table>
-  <tr>
-    <td align="center">
-      <img src="img/image.png" alt="Десктоп версия" width="400" style="border-radius: 16px;">
-      <br/>
-      <b>💻 Десктоп версия</b>
-      <br/>
-      <sub>Главный экран с магической кнопкой</sub>
-    </td>
-    <td align="center">
-      <img src="img/Снимок экрана 2026-04-10 161732.png" alt="Мобильная версия" width="200" style="border-radius: 16px;">
-      <br/>
-      <b>📱 Мобильная версия</b>
-      <br/>
-      <sub>Адаптивный дизайн</sub>
-    </td>
-  </tr>
-</table>
+<img src="img/image.png" alt="Десктоп версия" width="45%" style="margin: 10px; border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+<img src="img/Снимок экрана 2026-04-10 161732.png" alt="Мобильная версия" width="45%" style="margin: 10px; border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+
+<br>
+<em>✨ Главный экран с магической кнопкой (слева) и адаптивная мобильная версия (справа)</em>
 
 </div>
 
