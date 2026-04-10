@@ -1,10 +1,9 @@
 # ✨ Мой первый красивый сайт
 <div align="center">
-  
-<!-- АНИМИРОВАННЫЙ ЗАГОЛОВОК -->
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=✨+Мой+первый+красивый+сайт;✨+My+first+beautiful+website;✨+Современный+и+стильный;✨+Для+новичков+в+Web" alt="Typing SVG" />
 
-<!-- АНИМИРОВАННЫЕ БЕЙДЖИ -->
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a" />
@@ -17,7 +16,6 @@
   <img src="https://img.shields.io/badge/🎨-Modern-8B5CF6?style=for-the-badge" />
 </p>
 
-<!-- ПРИКОЛЬНАЯ АНИМАЦИЯ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontColor=fff" width="100%"/>
 
 </div>
@@ -106,15 +104,29 @@ graph LR
 - Медиа-запросы для всех разрешений
 
 ---
-
-🛠️ Технологии
+🎨 Визуальная карта технологий
 <div align="center">
-Технология	Версия	Что умеет
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" style="vertical-align: middle;"> HTML5	Latest	Семантическая вёрстка, SEO-friendly
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" style="vertical-align: middle;"> CSS3	Latest	Flexbox, Grid, Анимации, Gradients
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" style="vertical-align: middle;"> JavaScript	ES6+	DOM, Events, Dynamic content
-</div>
-
+mindmap
+  root((МОЙ САЙТ))
+    HTML5
+      Семантика
+      Доступность
+      SEO
+    CSS3
+      Flexbox
+      Grid
+      Анимации
+      Градиенты
+    JavaScript
+      События
+      DOM
+      Динамика
+      Toasts
+    Инструменты
+      Git
+      VS Code
+      GitHub
+</div
 ---
 
 📁 Структура проекта
@@ -127,6 +139,7 @@ graph LR
 │
 └── 📁 img/                # Папка с изображениями
     └── 🖼️ image.png       # Изображение главного экрана
+</div>
 ---
 
 ## 🚀 Как запустить
