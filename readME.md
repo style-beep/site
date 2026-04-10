@@ -1,18 +1,79 @@
 # ✨ Мой первый красивый сайт
-
 <div align="center">
+  
+<!-- АНИМИРОВАННЫЙ ЗАГОЛОВОК -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=✨+Мой+первый+красивый+сайт;✨+My+first+beautiful+website;✨+Современный+и+стильный;✨+Для+новичков+в+Web" alt="Typing SVG" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- АНИМИРОВАННЫЕ БЕЙДЖИ -->
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a" />
+</p>
 
-### 🚀 Современный, адаптивный и стильный сайт для новичков в веб-разработке
+<p>
+  <img src="https://img.shields.io/badge/⭐-Open%20Source-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📱-Responsive-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎨-Modern-8B5CF6?style=for-the-badge" />
+</p>
 
-[Сообщить о проблеме](https://github.com/style-beep/issues) • [Telegram](https://t.me/Donskooyyy)
+<!-- ПРИКОЛЬНАЯ АНИМАЦИЯ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontColor=fff" width="100%"/>
 
 </div>
 
 ---
+
+## 🎯 **О проекте**
+
+<div align="center">
+  
+> **Современный, адаптивный и стильный сайт, созданный новичком в веб-разработке**
+
+Этот проект — идеальная отправная точка для тех, кто хочет научиться создавать красивые сайты.  
+Здесь собраны все современные техники: градиенты, анимации, адаптив и интерактивность на чистом JS.
+
+</div>
+
+---
+
+## ✨ **Особенности**
+
+<div align="center">
+  
+| 🎨 **Дизайн** | 🎮 **Интерактив** | 📱 **Адаптив** |
+|--------------|-------------------|----------------|
+| Градиентный фон | Магическая кнопка | Mobile-first |
+| Стекломорфизм | Калькулятор | Гибкие сетки |
+| Плавные анимации | Всплывающие тосты | Медиа-запросы |
+| Кастомный скролл | Плавная прокрутка | Retina-ready |
+
+</div>
+
+---
+
+### 💻 **Десктоп версия**
+```mermaid
+graph LR
+    A[Главный экран] --> B[Магия]
+    A --> C[Калькулятор]
+    B --> D[Анимации]
+    C --> E[Результат]
+    style A fill:#3B82F6,stroke:#333,stroke-width:2px
+    style B fill:#8B5CF6,stroke:#333,stroke-width:2px
+    style C fill:#10B981,stroke:#333,stroke-width:2px
+```
+</td> <td width="50%">
+📱 Мобильная версия
+✅ Горизонтальный скролл
+
+✅ Увеличенные кнопки
+
+✅ Оптимизированные шрифты
+
+✅ Touch-friendly интерфейс
+
+</td> </tr> </table></div>
 
 ## 📸 Скриншоты
 
@@ -46,26 +107,26 @@
 
 ---
 
-## 🛠️ Технологии
-
-| Технология | Что используется |
-|------------|------------------|
-| **HTML5** | Семантическая вёрстка, современные теги |
-| **CSS3** | Flexbox, Grid, анимации, градиенты, backdrop-filter |
-| **JavaScript** | DOM-манипуляции, обработка событий, динамический контент |
+🛠️ Технологии
+<div align="center">
+Технология	Версия	Что умеет
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" style="vertical-align: middle;"> HTML5	Latest	Семантическая вёрстка, SEO-friendly
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" style="vertical-align: middle;"> CSS3	Latest	Flexbox, Grid, Анимации, Gradients
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" style="vertical-align: middle;"> JavaScript	ES6+	DOM, Events, Dynamic content
+</div>
 
 ---
 
-## 📁 Структура проекта
-
+📁 Структура проекта
+<div align="center">
 мой-сайт/
+├── 📄 index.html          # Основная структура страницы
+├── 🎨 style.css           # Все стили и анимации
+├── ⚡ script.js           # Вся интерактивность
+├── 📖 README.md           # Документация проекта
 │
-├── index.html # Основная структура страницы
-├── style.css # Все стили и анимации
-├── script.js # Вся интерактивность
-├── img-image.png # Изображение главного экрана
-└── README.md # Документация проекта
-
+└── 📁 img/                # Папка с изображениями
+    └── 🖼️ image.png       # Изображение главного экрана
 ---
 
 ## 🚀 Как запустить
