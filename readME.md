@@ -17,7 +17,7 @@
 ## 📸 Скриншоты
 
 <div align="center">
-  <img src=" alt="Главный экран" width="80%">
+   <img src="img/image.png" alt="Главный экран" width="80%">
   <br>
   <em>Главный экран с магической кнопкой</em>
 </div>
