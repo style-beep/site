@@ -1,9 +1,6 @@
 # ✨ Мой первый красивый сайт
 <div align="center">
  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=✨+Мой+первый+красивый+сайт;✨+My+first+beautiful+website;✨+Современный+и+стильный;✨+Для+новичков+в+Web" alt="Typing SVG" />
-
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a" />
@@ -12,8 +9,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/⭐-Open%20Source-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📱-Responsive-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎨-Modern-8B5CF6?style=for-the-badge" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontColor=fff" width="100%"/>
