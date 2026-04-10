@@ -127,7 +127,7 @@ graph LR
 
 <div align="center">
   
-<img src="img/image.png" alt="Десктоп версия" width="45%" style="margin: 10px; border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+<img src="img/Снимок экрана 2026-04-10 162622.png" alt="Десктоп версия" width="45%" style="margin: 10px; border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
 <img src="img/Снимок экрана 2026-04-10 161732.png" alt="Мобильная версия" width="45%" style="margin: 10px; border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
 
 <br>
