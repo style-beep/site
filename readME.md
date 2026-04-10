@@ -127,6 +127,7 @@ graph LR
 
 <div align="center">
    <img src="img/image.png" alt="Главный экран" width="80%">
+ <img src="img/" alt="главный экран" width="80%">
   <br>
   <em>Главный экран с магической кнопкой</em>
 </div>
